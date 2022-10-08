@@ -57,6 +57,7 @@ class LeetCodeApplicationTests {
     }
 
     public void merge(){
+        int a = 1 + 2;
         System.out.println("分支test");
     }
 }
