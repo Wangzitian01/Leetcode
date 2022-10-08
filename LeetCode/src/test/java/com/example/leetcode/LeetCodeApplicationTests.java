@@ -57,6 +57,7 @@ class LeetCodeApplicationTests {
     }
 
     public void merge(){
-        System.out.println("涓诲垎鏀痬ain");
+        System.out.println("主分支main");
+        System.out.println("分支test");
     }
 }
