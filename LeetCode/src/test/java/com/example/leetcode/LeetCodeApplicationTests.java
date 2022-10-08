@@ -57,7 +57,6 @@ class LeetCodeApplicationTests {
     }
 
     public void merge(){
-        System.out.println("master");
-        String testBranch = "分支test";
+        System.out.println("分支test");
     }
 }
