@@ -55,4 +55,8 @@ class LeetCodeApplicationTests {
     public void printnum(String str,Consumer<String> consumer){
         consumer.accept(str);
     }
+
+    public void merge(){
+        System.out.println("分支test");
+    }
 }
