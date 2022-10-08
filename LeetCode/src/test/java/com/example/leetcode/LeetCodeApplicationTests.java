@@ -57,9 +57,6 @@ class LeetCodeApplicationTests {
     }
 
     public void merge(){
-        int b = 1 + 2;
-        int a = 3 + 4;
-        int c = 5 + 6;
-        System.out.println("分支TEST");
+        System.out.println("master");
     }
 }
